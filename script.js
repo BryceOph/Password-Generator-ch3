@@ -59,7 +59,7 @@ function generatePassword() {
     console.log(allCharacters);
     
     if (numerics) {
-      allCharacters = allCharacters + '123456789'
+      allCharacters = allCharacters + '1234567890'
     }
     //  else {
     //   allCharacters = false;
